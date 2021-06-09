@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#text{
+    text-align: center;
+}
+
+.form1{
+    border-radius: 25px;
+    border:2px solid black;
+}
+
+form{
+    text-align: center;
+}
+
+.btn{
+    text-align: center;
+    padding-top: 30px;
+}
+#email{
+    position: relative;
+    left: 6px;
+}
+#number{
+    margin-right: 32px;
+}
+#date{
+    margin-right: 41px;
+}
+#gender{
+    margin-right: 84px;
+}
+
+#email1{
+    position: relative;
+    right: -5px;
+}
+table tr td{
+    border: solid 1px #ccc;
+    padding: 10px;
+}
+
+button{
+    width: 100px;
+    pad: 15px;
+    margin-left: 20px;
+    background: #fff;
+    color: dodgerblue;
+    border: solid 1px dodgerblue;
+    border-radius: 33px;
+    cursor: pointer;
+    transition: all.38s ease-in-out;
+}
+
+button:hover{
+    background: dodgerblue;
+    color: #fff;
+}
